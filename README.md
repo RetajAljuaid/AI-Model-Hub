@@ -17,13 +17,13 @@ Instead of searching across multiple websites, everything is structured in one p
 
 ---
 
-## 🖼️ Project Preview
+##  Project Preview
 
 ![Database ERD](images/ERD.png)
 
 ---
 
-## 📖 Why I Built This Project
+## Why I Built This Project
 
 AI models are evolving rapidly, with new releases appearing every few months. While exploring them, I noticed that comparing information across different websites was often confusing and unstructured.
 
@@ -33,13 +33,13 @@ This project also gave me the opportunity to practice database design, table rel
 
 ---
 
-## 🗄 Database Design
+##  Database Design
 
 The database contains eight related tables connected through primary and foreign keys to organize AI model information efficiently.
 
 ---
 
-## 📋 Database Tables
+##  Database Tables
 
 | Table | Purpose |
 |-------|---------|
@@ -54,7 +54,7 @@ The database contains eight related tables connected through primary and foreign
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 - Designing a relational database.
 - Building relationships using primary and foreign keys.
@@ -63,14 +63,14 @@ The database contains eight related tables connected through primary and foreign
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - MySQL Database
 - MySQL Workbench
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Retaj Aljuaid**
 
